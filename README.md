@@ -1,0 +1,1 @@
+Completed a course "Data Analysis with Python: Zero to Pandas" on Jovian and achieved a free certificate by accomplishing a course project by analyzing a dataset on kaggle(URL:"https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset"). Also completed a case study of stackoverflow survey. Both of which are uploaded here.
